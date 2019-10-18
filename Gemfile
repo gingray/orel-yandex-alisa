@@ -16,6 +16,8 @@ group :development, :test do
   gem 'shotgun'
   gem 'rack'
   gem 'puma'
+  gem 'pry'
+  gem 'rb-readline'
 end
 
 group :test do
